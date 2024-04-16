@@ -4,12 +4,13 @@ import { StyledLink } from '../../utils/style/atoms'
 import DarkLogo from '../../assets/dark-logo.png'
 
 const HomeLogo = styled.img`
-  height: 400px;
+ height: 250px; // augmenter la hauteur
+  margin: 0; 
  
 `
 
 const NavContainer = styled.nav`
-  padding: 30px;
+  padding: 0px 30px;
   display: flex;
   justify-content: space-between;
   align-items: center;
