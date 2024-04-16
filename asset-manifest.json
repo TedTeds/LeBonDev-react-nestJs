@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/LeBonDev-react-nestJs/static/js/main.93d2f12e.js",
+    "static/media/empty.svg": "/LeBonDev-react-nestJs/static/media/empty.4f54a7d6682b94b8fdb85e395245b211.svg",
+    "static/media/dark-logo.png": "/LeBonDev-react-nestJs/static/media/dark-logo.26e36499b416a1ff4542.png",
+    "static/media/home-illustration.svg": "/LeBonDev-react-nestJs/static/media/home-illustration.3c3e6fa7e38c96aae00aea10c3cbf9cd.svg",
+    "index.html": "/LeBonDev-react-nestJs/index.html",
+    "main.93d2f12e.js.map": "/LeBonDev-react-nestJs/static/js/main.93d2f12e.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.93d2f12e.js"
+  ]
+}
